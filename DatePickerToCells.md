@@ -1,4 +1,4 @@
-# How to add a DatePicker (Calendar) to Excel Rows
+# How to add a DatePicker (Calendar) to Excel Cells
 
 ### Step 1. Enable Developer Mode in Excel
 - File
