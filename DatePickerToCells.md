@@ -46,7 +46,8 @@ Private Sub Worksheet_SelectionChange(ByVal Target As Range)
       .Visible = True             
       .Top = Target.Top             
       .Left = Target.Offset(0, 1).Left             
-      .LinkedCell = Target.Address         Else             
+      .LinkedCell = Target.Address         
+    Else             
       .Visible = False         
     End If     
   End With               
