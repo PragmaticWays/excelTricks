@@ -11,7 +11,7 @@
 - Go to ‪`C:\Windows\SysWOW64\` folder
 - Move `mscomct2.ocx` file into `C:\Windows\SysWOW64\` folder
 
-### Register
+### Step 3. Register
 
 - Type `CMD` in search bar
 - Right click and `Run as Administrator`
